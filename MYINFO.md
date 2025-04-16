@@ -1,2 +1,2 @@
-# 취미는 게임
-# MBTI : ISTJ
+- 취미 : 게임
+- MBTI : ISTJ
